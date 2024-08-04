@@ -1,12 +1,7 @@
 {
-
-
-
-
 "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg.jar",
-
 "lives":[
-    
+
 {
       "name": "live",
       "url": "https://tv.iill.top//m3u/Adult",
@@ -21,6 +16,8 @@
     "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3F1YW4ubG92ZXN0b2Jsb2cuY29tL2NvbWJpbmUudHh0"]}]
     }],
 "sites":[
+  {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
+    {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""},
 
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"17","name":"🔞🈲分割线——————","type":0,"api":""},
@@ -67,7 +64,73 @@
                 "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
                 "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
             }
+        },{"key": "SOAV",
+            "name": "🔞SOAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://www.wantav.co/",
+                "搜索url": "https://777080.xyz/?s={wd}",
+                "数组": "data-video-uid=&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️少看点，再看你就废了！！！",
+                "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
+                "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
+            }
+        },{"key": "TaiAv",
+            "name": "🔞TaiAv",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://taiav.com/",
+                "搜索url": "https://taiav.com/search?q={wd}",
+                "数组": "uk-card-media-top\"&&</a>",
+                "图片": "src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</span>&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
+                "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码"
+            }
         },{
+    "key": "NiceAv",
+    "name": "🔥NiceAv",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "主页url": "https://www.nice106.xyz/",
+       // "搜索url": "https://www.nice106.xyz/index.php/vod/search/wd={wd}",
+        //"数组": "col-6 col-sm-4 col-lg-3 mb-3\"> <a class=\"tag text-light\" href=\"&&",
+        "图片": "src=\"&&\"",
+        //"标题": "title=\"&&\"",
+        //"副标题": "</span>&&</div>",
+       // "链接": "href=\"&&\"",
+        "简介": "⚠️慢点撸，皮要掉了！！！",
+        "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
+        "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"
+    }
+},
+
+{
             "key": "RJAV",
             "name": "🔞RJAV",
             "type": 3,
@@ -84,6 +147,27 @@
                 "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
             }
         },{
+    "key": "玩偶妹妹",
+    "name": "玩偶妹妹",
+    "type": 3,
+    "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+    "ext": {
+        "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
+        "直接播放": "1",
+        //"数组": "class=\"thumb\"&&</div>",
+       // "图片": "src=\"&&\"",
+       //"标题": "title=\"&&\"",
+        //"链接": "href=\"&&\"",
+     //   "简介": "span.desc&&",
+    //    "主演": "",
+        "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
+        "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
+    }
+},{
             "key": "18insta",
             "name": "💗┃💋18INSTA┃💠",
             "type": 3,
@@ -114,29 +198,15 @@
       "api": "csp_J91",
       "searchable": 1,
       "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },{
+    },{"key":"三千免费AV","name":"🔞三千免费AV","type":3,"api":"csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top","主页url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya","二次截取":"<ul class=\"thumbnail-group&&</ul","数组":"<li&&</li","图片":"data-original=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【","链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]","分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html","分类url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},{
       "key": "Cg51",
       "name": "🔞51吃瓜",
       "type": 3,
       "api": "csp_Cg51",
       "searchable": 1,
       "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },{"key":"51黑料福利社","name":"51黑料福利社","type":3,"api":"csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://51heiliaofulishe.com","主页url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/ko","数组":"class=\"item-box\">&&</a","图片":"src=\"&&\"","副标题":"<!-- <small>&&</small> -->","简介":"description\" content=\"&&|全站免费","链接":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/v/+href=\"/voddetail/&&/\"+/","搜索模式":"1","搜索url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/s/page/{pg}/wd/{wd}/","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/t/&&/","分类url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/t/{cateId}-{catePg}/;;z"}},{
-            "key": "emby18",
-            "name": "EMBY18",
-            "type": 3,
-            "api": "https://down.nigx.cn/qu.ax/SAeB.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "server": "https://cherrytv.one:443",
-                "username": "ghost",
-                "password": "ghost",
-                "thread": 0
-            }
-        },{
+    },{"key":"51黑料福利社","name":"51黑料福利社","type":3,"api":"csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://51heiliaofulishe.com","主页url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/ko","数组":"class=\"item-box\">&&</a","图片":"src=\"&&\"","副标题":"<!-- <small>&&</small> -->","简介":"description\" content=\"&&|全站免费","链接":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/v/+href=\"/voddetail/&&/\"+/","搜索模式":"1","搜索url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/s/page/{pg}/wd/{wd}/","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/t/&&/","分类url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/t/{cateId}-{catePg}/;;z"}},
+       {
             "key": "sb",
              "name": "sb18",
             "type": 3,
@@ -153,6 +223,62 @@
                 "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest;;D",
                 "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
             }
+        }, {
+            "key": "avge",
+            "name": "💗┃💋AVge┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://avgle.to",
+                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "class=\"title\"><a*>&&</a >",
+                "链接": "<a href=\"&&\"",
+                "直接播放": "1",
+                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
+                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+            }
+        },{"key": "BuzzAV",
+            "name": "🔞BuzzAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "ext": {
+                "主页url": "https://www.buzzav.com/",
+                "直接播放": "1",
+                "数组": "<article id=&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "class=\"duration\">&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.buzzav.com/category/{cateId}/page/{catePg}",
+                "分类": "业余$amateur#肛门$anal#亚洲$asian#Asmr$asmr#宝贝$babe#大屁股$big-ass#大鸡巴$big-dick#大奶$big-tits#金发女郎$blonde#口交$blowjob#束缚$bondage#名人$celebrity#中文$chinese-中文#大学$college#汇编$compilation#角色扮演$cosplay#中出$creampie#绿帽$cuckold#射精$cumshot#脚$feet#恋物癖$fetish#群交$gangbang#手淫$handjob#硬核$hardcore#成人动漫$hentai#跨种族$interracial#日本人$japanese#女同性恋$lesbian#按摩$massage#手淫$masturbation#成熟$mature#熟女$milf#观点$pov#民众$public#喷出$squirt#18+青少年$teen-18#三人行$threesome#未分类$uncategorized#优质的$vintage#摄像头$webcam"
+            }
+        },{
+            "key": "女优色库",
+            "name": "🔞女优色库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "ratio": 1.7
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/女优.json"
+        },{
+            "key": "暗网色库",
+            "name": "🔞暗网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "ratio": 1.7
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/暗网.json"
         },{
             "key": "x",
             "name": "❤XX┃合集",
@@ -319,7 +445,55 @@
                 "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
                 "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
             }
-        },
+        },{
+    "key": "airav",
+    "name": "💕AirAv",
+    "type": 3,
+    "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "直接播放": 1,
+        "主页url": "https://airav.io/",
+        "数组": "div class=\"row row-cols-2 row-cols-lg-4 g-2 mt-0\"&&</div>",
+        "图片": "img src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "a href=\"&&\"",
+        "简介": "div class=\"oneVideo-body\"&&</div>",
+        "线路数组": "div class=\"owl-carousel owl-carousel-banner owl-theme\"&&</div>",
+        "线路标题": "div class=\"oneVideo-body\"&&</div>",
+        "分类url": "https://airav.io/{cateId}/{catePg}.html",
+        "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"
+    }
+},
+{
+    "key": "lijav",
+    "name": "💕LiJav",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "直接播放": 1,
+        "主页url": "https://lijav.com/",
+        "数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
+        "图片": "div[class=\"withRatio _cover\"]&&",
+        "标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
+        "链接": "a[class=\"homecoverheader_1_item\"] href=\"&&\"",
+        "简介": "div[class=\"homecoverheader_1_overlay\"]&&",
+        "发布日期": "div[class=\"homecoverheader_1_date\"]&&</div>",
+        "线路数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
+        "线路标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
+        "分类url": "https://lijav.com/{cateId}/{catePg}.html",
+        "分类": "主頁$home/1#最受歡迎$popular/2#搜尋$search/3#全部$all/4#有碼影片$coded/5#無碼影片$uncoded/6#中文字幕$subtitles/7#類別$categories/8#女優$actresses/9#我的片單$mylist/10"
+    }
+},
 {
             "key": "AVTOP10",
             "name": "🔞AVTOP10",
@@ -469,6 +643,19 @@
       "searchable": 0,
       "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },{
+      "key": "Theporn",
+            "name": "🔞Theporn",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"
+        },{
       "key": "HiPianZhiBo",
       "name": "🔞 嗨片直播 | 视频",
       "type": 3,
