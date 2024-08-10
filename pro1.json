@@ -1,7 +1,6 @@
 {
 "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg.jar",
 "lives":[
-
 {
       "name": "live",
       "url": "https://tv.iill.top//m3u/Adult",
@@ -16,7 +15,7 @@
     "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3F1YW4ubG92ZXN0b2Jsb2cuY29tL2NvbWJpbmUudHh0"]}]
     }],
 "sites":[
-  {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
+    {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
     {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""},
 
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
@@ -223,7 +222,29 @@
                 "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest;;D",
                 "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
             }
-        }, {
+        },  {"key":"天堂岛",
+        "name":"🔞天堂岛",
+        "type":3,
+        "api":"csp_XBPQ",
+         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+        "主页url":"https://www.ttdao666.buzz",
+        "数组":"<div class=\"item&&</a",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "副标题":"<em>&&</em",
+        "简介":"description\" content=\"&&剧情",
+        "链接":"https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+        "跳转播放链接":"var player_*\"url\":\"&&\"",
+        "搜索模式":"1",
+        "搜索url":"https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "分类数组":"<a&&/a",
+        "分类标题":">&&<",
+        "分类ID":"/vod/type/id/&&/",
+        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}}, {
             "key": "avge",
             "name": "💗┃💋AVge┃💠",
             "type": 3,
