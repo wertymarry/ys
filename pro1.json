@@ -35,7 +35,23 @@
       "api": "csp_XMVideo",
       "searchable": 1,
       "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },{
+    }, {
+      "key": "av影视",
+      "name": "🔞av影视|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+      "ext": {
+       "图片": "data-src=\"&&\"",
+               "直接播放": "1",
+      "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16" 
+      }
+       },{
             "key": "php_madou",
             "name": "🔞麻豆xx",
             "type": 4,
@@ -145,6 +161,16 @@
                 "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
                 "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
             }
+        },{
+            "key": "csp_XYQHiker_300分类",
+            "name": "♥️300分类♥️",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/Aoki.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/300分类.json"
         },{
     "key": "玩偶妹妹",
     "name": "玩偶妹妹",
