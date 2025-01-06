@@ -1,0 +1,29 @@
+{
+    "urls": [
+       
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🏄️巧记线路"
+        },
+          {
+            "url":"https://szyyds.cn/tv/x.json",
+            "name": "🏄️小马"
+        }, 
+          {
+            "url":"https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
+            "name": "🏄️拾光"
+        }, 
+          {
+            "url":"http://dp.sxtv.top:88/img",
+            "name": "🏄️神仙"
+        },
+          {
+            "url":"https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "🏄️天威线路"
+        },
+          {
+            "url":"https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
+            "name": "🏄️春莹线路"
+        }		
+      ]  
+}
