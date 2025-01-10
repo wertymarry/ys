@@ -1,12 +1,20 @@
 {
     "urls": [
 {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
-            "name": "公众号【宝盒没宝】"
+            "url": "http://ygbh.site/box.php",
+            "name": "宝盒BOX"
         },
  {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "香雅情"
+            "url": "https://ygbh.site/plus.php",
+            "name": "宝盒PLUS"
+        },
+ {
+            "url": "https://ygbh.site/max.php",
+            "name": "宝盒MAX"
+        },
+ {
+            "url": "https://ygbh.site/ysc.php",
+            "name": "影视仓"
         },
         {
             "url": "http://www.饭太硬.com/tv/",
