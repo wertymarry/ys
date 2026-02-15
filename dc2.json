@@ -1,14 +1,17 @@
 {
     "urls": [
 {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
-            "name": "宝盒BOX"
+            "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
+            "name": "宝盒1"
         },
  {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "宝盒PLUS"
+            "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/宝盒视界",
+            "name": "宝盒2"
         },
-
+ {
+            "url": "https://gitee.com/baohe2025/bh/raw/master/宝盒视界",
+            "name": "宝盒3"
+        },
  {
             "url": "https://ygbh.site/ysc.php",
             "name": "影视仓"
@@ -115,4 +118,5 @@
         }
     ]
 }
+
 
